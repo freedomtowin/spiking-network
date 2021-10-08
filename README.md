@@ -13,4 +13,4 @@ Train accuracy: 0.61
 Validation accuracy: 0.64
 Optimization: KernelML
 
-![spiking-network-results](https://github.com/freedomtowin/spiking-network/blob/main/spiking-network-results.PNG)]
+![spiking-network-results](https://github.com/freedomtowin/spiking-network/blob/main/spiking-network-results.PNG)
